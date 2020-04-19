@@ -1,0 +1,26 @@
+{
+  "name": "move-and-draw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProCode2/Move-and-draw.git"
+  },
+  "author": "ProCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProCode2/Move-and-draw/issues"
+  },
+  "homepage": "https://github.com/ProCode2/Move-and-draw#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
