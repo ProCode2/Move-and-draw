@@ -1,3 +1,6 @@
+
+function showLocation()
+{
 let geo = navigator.geolocation;
 var options = {
 enableHighAccuracy: true,
@@ -25,7 +28,7 @@ function err(e)
 {
 alert('prob');
 }
-
+}
 
 
 var mymap = L.map('issMap').setView([0,0], 13);
